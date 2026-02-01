@@ -1,0 +1,12 @@
+# ML / Training artifacts
+catboost_info/
+__pycache__/
+*.cbm
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
